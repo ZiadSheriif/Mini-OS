@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ZeyadTarekk/Mini-OS)](https://github.com/ZeyadTarekk/Mini-OS/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/ZeyadTarekk/Mini-OS)](https://github.com/ZeyadTarekk/Mini-OS/issues)
-[![GitHub license](https://img.shields.io/github/license/ZeyadTarekk/Mini-OS)](https://github.com/ZeyadTarekk/Mini-OS/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/ZeyadTarekk/Mini-OS)](https://github.com/ZeyadTarekk/Mini-OS/network)
-[![GitHub stars](https://img.shields.io/github/stars/ZeyadTarekk/Mini-OS)](https://github.com/ZeyadTarekk/Mini-OS/stargazers)
-[![GitHub Language](https://img.shields.io/github/languages/top/ZeyadTarekk/Mini-OS)](https://img.shields.io/github/languages/count/ZeyadTarekk/Mini-OS)
+[![GitHub contributors](https://img.shields.io/github/contributors/ZiadSheriif/Mini-OS)](https://github.com/ZiadSheriif/Mini-OS/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ZiadSheriif/Mini-OS)](https://github.com/ZiadSheriif/Mini-OS/issues)
+[![GitHub license](https://img.shields.io/github/license/ZiadSheriif/Mini-OS)](https://github.com/ZiadSheriif/Mini-OS/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/ZiadSheriif/Mini-OS)](https://github.com/ZiadSheriif/Mini-OS/network)
+[![GitHub stars](https://img.shields.io/github/stars/ZiadSheriif/Mini-OS)](https://github.com/ZiadSheriif/Mini-OS/stargazers)
+[![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/Mini-OS)](https://img.shields.io/github/languages/count/ZiadSheriif/Mini-OS)
 
 </div>
 
@@ -59,7 +59,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/ZeyadTarekk/Mini-OS.git
+$ git clone https://github.com/ZiadSheriif/Mini-OS.git
 ```
 
 2. **_Navigate to Phase2 Folder_**
@@ -117,7 +117,7 @@ $ make run
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/ZeyadTarekk" target="_black">
+    <a href="https://github.com/ZiadSheriif" target="_black">
     <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
@@ -147,4 +147,4 @@ $ make run
 
 ## License <a name = "license"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/ZeyadTarekk/Mini-OS/blob/main/LICENSE) for more information ©ZeyadTarekk.
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Mini-OS/blob/main/LICENSE) for more information ©ZiadSheriif.
