@@ -1,4 +1,7 @@
 <h3 align="center">Mini OS</h3>
+<div align="center">
+<img src="screenshots/kernal.png">
+</div>
 
 <div align="center">
 
@@ -117,7 +120,7 @@ $ make run
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/ZiadSheriif" target="_black">
+    <a href="https://github.com/ZeyadTarekk" target="_black">
     <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
